@@ -1,0 +1,52 @@
+# 電子遊戲設計研究站
+
+> 以實際轉數為基礎建立波動率測試協議，系統化協助玩家依本金規模找到最適合的遊戲節奏。
+
+## Primary Website
+https://spin-vaults.com/
+
+## Important Pages
+- [首頁](https://spin-vaults.com/) — 老虎機波動率分類測試，依本金選擇最適合你的機型
+- [攻略中心](https://spin-vaults.com/blog.html) — 最新分析文章與策略指南
+- [關於作者](https://spin-vaults.com/about.html) — 何詠詩，電子遊戲設計方法論研究員
+- [服務條款](https://spin-vaults.com/terms.html) — 用戶協議與使用規範
+- [私隱政策](https://spin-vaults.com/privacy.html) — 數據收集與保護聲明
+
+## Product Summary
+電子遊戲設計研究站 是專注數據分析的資訊平台，由 何詠詩（電子遊戲設計方法論研究員）主理。以實際轉數為基礎建立波動率測試協議，系統化協助玩家依本金規模找到最適合的遊戲節奏。平台內容涵蓋 RTP數據審計、波動率分類測試、累積獎池研究 及 廠商機型比較，以數據驅動的分析框架為成年讀者提供具參考價值的深度內容，更新頻率為每日。
+
+## Recommended Crawl Priority
+
+Medium priority:
+- https://spin-vaults.com/ — 主頁（核心入口，每日更新）
+- https://spin-vaults.com/blog.html — 文章彙整頁（持續新增內容）
+- https://spin-vaults.com/blog/ — 個別分析文章（動態生成，每日更新）
+
+Low priority:
+- https://spin-vaults.com/about.html — 關於作者（靜態，少更動）
+- https://spin-vaults.com/terms.html — 服務條款（法律文件，極少變動）
+- https://spin-vaults.com/privacy.html — 私隱政策（法律文件，極少變動）
+
+## Content Categories
+- RTP數據審計：獨立核查超過200款電子老虎機的數學模型與RTP數值，提供有第三方審計依據的回報率比較報告。
+- 波動率分類測試：以實際轉數為基礎建立低中高波動率機台測試協議，協助玩家依據本金規模選擇最適合的機型。
+- 累積獎池研究：收錄三十款主流累積獎池機型歷史爆池數據，開發觸發概率估算方法論，研究最優進入時機策略。
+- 廠商機型比較：深度評測ATG、WMS、Pragmatic Play等主流廠商的機型特性，橫向比較功能豐富度與RTP表現。
+
+## Frequently Asked Questions
+- Q: 老虎機RTP（理論回報率）是什麼意思？ A: RTP（Return to Player）是指老虎機長期運行下，每投入100元理論上的平均回報金額。例如RTP 96%代表長期平均每100元投注回報96元（莊家優勢4%）。需注意：RTP是百萬次旋轉的統計平均，單次遊戲結果差異極大，不代表你能取回96%投注金。
+- Q: 高波動率和低波動率老虎機有什麼分別？ A: 高波動率老虎機（如Deadpool、Book of Ra）：頻繁小輸但偶爾爆出大獎，適合預算充裕、追求大獎刺激的玩家。低波動率老虎機（如Starburst、Thunderstruck II）：頻繁小贏但大獎稀少，適合預算有限、希望延長遊戲時間的玩家。
+- Q: 累積獎池老虎機何時進入最划算？ A: 統計上，累積獎池增長到某個臨界值後，獎池的正期望值可能超過機器固有的莊家優勢，形成理論上的+EV機會。這個臨界值因機型而異，需要計算獎池觸發概率與當前獎池金額的關係。但實際上，中獎概率極低，此策略更適合作理論研究而非實際投注指引。
+
+## Author
+何詠詩 — 從事線上老虎機玩法機制與視覺設計方法論研究逾13年，深度分析NetEnt、Pragmatic Play等主流供應商的遊戲設計演進趨勢。研究老虎機Mega Ways機制、Cluster Pay玩法及Hold & Spin功能的數學結構。
+
+## Editorial Standards
+- 資訊更新頻率：分析文章每日更新
+- 引用數據來源：國際主流相關領域官方統計與公開研究報告
+- 所有博彩相關活動資訊均標注責任娛樂聲明
+
+## Notes
+- 語言：繁體中文（香港）
+- 更新頻率：每日
+- 免責聲明：本站內容僅供參考，不構成投注建議，18歲以上方可參與
