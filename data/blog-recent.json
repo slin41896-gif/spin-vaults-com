@@ -1,1 +1,12 @@
-{"articles":[]}
+{
+  "articles": [
+    {
+      "slug": "slot-rtp-complete-guide",
+      "title": "老虎機RTP完整解析：理論回報率的定義、計算方式與實際意義",
+      "category": "undefined",
+      "date": "2026-05-29",
+      "excerpt": "玩老虎機咁多年，你真係明RTP（回報率）係乜？我以前都係盲摸摸，直到深入研究先知點解有啲機特別「食錢」！",
+      "imageUrl": "https://pixabay.com/get/g457b5f59c9e3ffe0adccdd3a6c294bc88253826d87afbff8da1dabf9024ed044ac3ffbe809299ffec309dee153ade2feeff13cb3c5b686f3f316b9347e880d0f_640.jpg"
+    }
+  ]
+}
