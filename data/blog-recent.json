@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "slot-volatility-mechanics-analysis",
+      "title": "老虎機波動性詳解：賠付頻率與獎金幅度的核心機制分析",
+      "category": "undefined",
+      "date": "2026-05-30",
+      "excerpt": "玩老虎機咁耐，你有冇諗過點解有時狂出細獎，有時又等好耐先爆大獎？我哋今日就嚟解開呢個謎團！",
+      "imageUrl": "https://pixabay.com/get/g4a835df64515bbb3758a4cbfa967ed530b9d787045e3cab0871ce3af4efa4a5dad7cd0e0f4f440cbd13efd580f04eb25dc434c3e95895cb180e950ac03d8d6ec_640.jpg"
+    },
+    {
       "slug": "slot-rtp-data-verification-guide",
       "title": "老虎機官方RTP數據查詢指南：認識數據來源與驗證方法",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-30",
       "excerpt": "我哋玩家成日聽到「高RTP老虎機」，以為一定贏錢，但事實真係咁簡單？今日我哋就嚟拆解呢個迷思！",
       "imageUrl": "https://pixabay.com/get/gbdee048992cdfbdf4d7c07bbd036f0468f5c69c57801a21341a8f65c004eeda198cc5048158eed3c21bc4fc337b7d2a5_640.jpg"
-    },
-    {
-      "slug": "slot-rtp-complete-guide",
-      "title": "老虎機RTP完整解析：理論回報率的定義、計算方式與實際意義",
-      "category": "undefined",
-      "date": "2026-05-29",
-      "excerpt": "玩老虎機咁多年，你真係明RTP（回報率）係乜？我以前都係盲摸摸，直到深入研究先知點解有啲機特別「食錢」！",
-      "imageUrl": "https://pixabay.com/get/g457b5f59c9e3ffe0adccdd3a6c294bc88253826d87afbff8da1dabf9024ed044ac3ffbe809299ffec309dee153ade2feeff13cb3c5b686f3f316b9347e880d0f_640.jpg"
     }
   ]
 }
