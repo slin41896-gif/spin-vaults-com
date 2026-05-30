@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "slot-rtp-data-verification-guide",
+      "title": "老虎機官方RTP數據查詢指南：認識數據來源與驗證方法",
+      "category": "undefined",
+      "date": "2026-05-30",
+      "excerpt": "玩老虎機最怕俾人呃？我哋都想知點樣先可以查到最準嘅RTP數據，唔使再盲摸摸咁玩！",
+      "imageUrl": "https://pixabay.com/get/g03049ac7a4c274c3b79ff2d1f412a442b40f0bc8b5bdfc57dd0f4a8ddfc2ef06855f2869524dc880ce4d390dc513abb9_640.jpg"
+    },
+    {
       "slug": "high-rtp-slots-profit-analysis",
       "title": "高RTP老虎機不保證獲利的原因與回報率機制分析",
       "category": "undefined",
