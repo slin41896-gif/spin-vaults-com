@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "high-low-volatility-slots-analysis",
+      "title": "高波動與低波動老虎機的機制差異及玩家適用性分析",
+      "category": "undefined",
+      "date": "2026-05-31",
+      "excerpt": "玩老虎機咁耐，你係咪成日都諗，點解有啲機好似食錢咁，有啲又好似派錢派得密啲？我以前都係咁，直到我搞清楚高低波動嘅分別！",
+      "imageUrl": "https://pixabay.com/get/g95b5c6aa818b491c198925b13168c62796443c4e735a419dc04344175667912502b86a533c15db81beb1741eeb1727a6fb7c8b590213b5dfda6133110b4930b3_640.jpg"
+    },
+    {
       "slug": "slot-volatility-mechanics-analysis",
       "title": "老虎機波動性詳解：賠付頻率與獎金幅度的核心機制分析",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-30",
       "excerpt": "玩老虎機最怕俾人呃？我哋都想知點樣先可以查到最準嘅RTP數據，唔使再盲摸摸咁玩！",
       "imageUrl": "https://pixabay.com/get/g03049ac7a4c274c3b79ff2d1f412a442b40f0bc8b5bdfc57dd0f4a8ddfc2ef06855f2869524dc880ce4d390dc513abb9_640.jpg"
-    },
-    {
-      "slug": "high-rtp-slots-profit-analysis",
-      "title": "高RTP老虎機不保證獲利的原因與回報率機制分析",
-      "category": "undefined",
-      "date": "2026-05-30",
-      "excerpt": "我哋玩家成日聽到「高RTP老虎機」，以為一定贏錢，但事實真係咁簡單？今日我哋就嚟拆解呢個迷思！",
-      "imageUrl": "https://pixabay.com/get/gbdee048992cdfbdf4d7c07bbd036f0468f5c69c57801a21341a8f65c004eeda198cc5048158eed3c21bc4fc337b7d2a5_640.jpg"
     }
   ]
 }
