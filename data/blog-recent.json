@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "slug": "slot-machine-bankroll-management",
+      "title": "老虎機遊戲資金管理策略：如何規劃賭注上限與損益控制",
+      "category": "undefined",
+      "date": "2026-06-03",
+      "excerpt": "每次玩老虎機，我都好緊張自己啲錢會唔會一鋪清袋，但學識資金管理後，成個心態都唔同晒，贏輸都變得更從容！",
+      "imageUrl": "https://pixabay.com/get/gf1f835cf378a1f5457d2e372dcfc88e89e8aed6340e8960f6147b425ea5b1c6cdf30004dee26d9ddc33bafdd55756588d585fac92d4b9419df618c2a0f547564_640.jpg"
+    },
+    {
+      "slug": "slot-bonus-drought-analysis",
+      "title": "老虎機Bonus觸發後乾旱期成因分析：隨機數生成器與賠率平衡機制探討",
+      "category": "undefined",
+      "date": "2026-06-03",
+      "excerpt": "玩老虎機最怕就係Bonus觸發後，好似跌入無底洞咁，點解會咁？我哋一齊嚟拆解！",
+      "imageUrl": "https://pixabay.com/get/gdb27f584d4d0070b4a70f1680b3d7f714907b680938383adf3ee1f3f9aa55541caa155ff9b2a5d8b61f4a52215141a6ac8498b5ba0abf42615b3563985cfe907_640.jpg"
+    },
+    {
+      "slug": "slot-rng-predictability-analysis",
+      "title": "老虎機RNG隨機數生成器運作原理與結果可預測性研究分析",
+      "category": "undefined",
+      "date": "2026-06-02",
+      "excerpt": "玩老虎機咁多年，你係咪都好奇點解有時會連爆，有時又點撳都唔出？今日等我哋一齊揭開RNG嘅神秘面紗！",
+      "imageUrl": "https://pixabay.com/get/g425ea7ceeca42bc2cc77fc6721977f751808fc0ccc720fb1d43d459832c89162ef4a2a40e7a2ad97034e48e90d3882e12cacc30d83f96744079592be18f0307b_640.jpg"
+    }
+  ]
+}
